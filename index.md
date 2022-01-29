@@ -1,5 +1,5 @@
 ## Welcome
-  Welcome to the CISC322/326 course project page for our group, *Magnet*.  Below is a list of our project members and project components.
+  Welcome to the CISC322/326 course project page for our group, *Magnet*.  Below is a list of our project members and links to project components.
 
 ## Project Members
 - Andrew Wilker
