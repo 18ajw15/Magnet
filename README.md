@@ -2,7 +2,7 @@
 
 Navigate to index.md to edit the website
 
-# Here's a copy-paste of the original content of the website (use this if you're unsure of on how to use markdown)
+# Here's a copy-paste of the original content of the website (use this if you're unsure on how to use markdown)
 
 
 ## Welcome to GitHub Pages
