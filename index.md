@@ -2,11 +2,11 @@
 
 
 ## Project Members
-Andrew Wilker
-Gabrielle McCabe
-Marc Brasoveanu
-Nathan Perriman
-Theo Raptis
+- Andrew Wilker
+- Gabrielle McCabe
+- Marc Brasoveanu
+- Nathan Perriman
+- Theo Raptis
 
 ## Project Components
 | Component    | Link                                |
