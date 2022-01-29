@@ -1,4 +1,5 @@
 # Navigate to index.md to edit the website
+The Website itself is viewable at https://18ajw15.github.io/Magnet/
 
 # Below is a copy-paste of the original content of the website (use this if you're unsure on how to use markdown)
 
