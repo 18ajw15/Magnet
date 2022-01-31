@@ -3,7 +3,6 @@
 
 ## Project Members
 - Andrew Wilker
-- Gabrielle McCabe
 - Marc Brasoveanu
 - Nathan Perriman
 - Theo Raptis
