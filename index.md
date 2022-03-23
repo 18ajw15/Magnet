@@ -6,6 +6,7 @@
 - Marc Brasoveanu
 - Nathan Perriman
 - Theo Raptis
+- John Mahon
 
 ## Project Components
 | Component    | Link                                |
